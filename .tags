@@ -1,0 +1,84 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Solution	209minSubArrayLen.cpp	/^class Solution {$/;"	c	file:
+Solution	212findWords.cpp	/^class Solution {$/;"	c	file:
+Solution	213rob.cpp	/^class Solution {$/;"	c	file:
+Solution	214shortestPalindrome.cpp	/^class Solution {$/;"	c	file:
+Solution	215findKthLarge.cpp	/^class Solution {$/;"	c	file:
+Solution	216combinationSum3.cpp	/^class Solution {$/;"	c	file:
+Solution	218getSkyline.cpp	/^class Solution {$/;"	c	file:
+Solution	220containsNearbyAlmostDuplicate.cpp	/^class Solution {$/;"	c	file:
+Solution	221maximalSquare.cpp	/^class Solution {$/;"	c	file:
+Solution	224calculate.cpp	/^class Solution {$/;"	c	file:
+Solution	227calculate.cpp	/^class Solution {$/;"	c	file:
+Stack	225Stack.cpp	/^class Stack {$/;"	c	file:
+Trie	208Trie.cpp	/^    Trie() {$/;"	f	class:Trie
+Trie	208Trie.cpp	/^class Trie {$/;"	c	file:
+Trie	212findWords.cpp	/^    Trie() {$/;"	f	class:Trie
+Trie	212findWords.cpp	/^    Trie(TrieNode * root_val){$/;"	f	class:Trie
+Trie	212findWords.cpp	/^class Trie {$/;"	c	file:
+TrieNode	208Trie.cpp	/^    TrieNode() {$/;"	f	class:TrieNode
+TrieNode	208Trie.cpp	/^class TrieNode {$/;"	c	file:
+TrieNode	211WordDictionary.cpp	/^    TrieNode() {$/;"	f	class:TrieNode
+TrieNode	211WordDictionary.cpp	/^class TrieNode {$/;"	c	file:
+TrieNode	212findWords.cpp	/^    TrieNode() {$/;"	f	class:TrieNode
+TrieNode	212findWords.cpp	/^class TrieNode {$/;"	c	file:
+WordDictionary	211WordDictionary.cpp	/^	WordDictionary(){$/;"	f	class:WordDictionary
+WordDictionary	211WordDictionary.cpp	/^class WordDictionary {$/;"	c	file:
+addWord	211WordDictionary.cpp	/^    void addWord(string word) {$/;"	f	class:WordDictionary
+ans	212findWords.cpp	/^	vector<string> ans;$/;"	m	class:Solution	file:
+ans	216combinationSum3.cpp	/^	vector<vector<int>> ans;$/;"	m	class:Solution	file:
+calculate	224calculate.cpp	/^    int calculate(string s) {$/;"	f	class:Solution
+calculate	227calculate.cpp	/^    int calculate(string s) {$/;"	f	class:Solution
+combinationSum3	216combinationSum3.cpp	/^    vector<vector<int>> combinationSum3(int k, int n) {$/;"	f	class:Solution
+containsNearbyAlmostDuplicate	220containsNearbyAlmostDuplicate.cpp	/^    bool containsNearbyAlmostDuplicate(vector<int>& nums, int k, int t) {$/;"	f	class:Solution
+empty	225Stack.cpp	/^    bool empty() {$/;"	f	class:Stack
+findKthLargest	215findKthLarge.cpp	/^	int findKthLargest(vector<int>& nums, int k) {$/;"	f	class:Solution
+findWords	212findWords.cpp	/^    vector<string> findWords(vector<vector<char>>& board, vector<string>& words) {$/;"	f	class:Solution
+getSkyline	218getSkyline.cpp	/^    vector<pair<int, int>> getSkyline(vector<vector<int>>& buildings) {$/;"	f	class:Solution
+height	212findWords.cpp	/^	int height;$/;"	m	class:Solution	file:
+helper	211WordDictionary.cpp	/^	bool helper(string word, TrieNode * root){$/;"	f	class:WordDictionary	file:
+helper	212findWords.cpp	/^	void helper(vector<string>& words,vector<vector<char>>& board, Trie & wordsTrie, int i, int j){$/;"	f	class:Solution	file:
+helper	215findKthLarge.cpp	/^	int helper(vector<int> & nums, int start, int end, int k){$/;"	f	class:Solution	file:
+helper	216combinationSum3.cpp	/^	void helper(vector<int> curAns, int idx, int k, int n){$/;"	f	class:Solution	file:
+idx	212findWords.cpp	/^    int idx;$/;"	m	class:TrieNode	file:
+insert	208Trie.cpp	/^    void insert(string s) {$/;"	f	class:Trie
+insert	212findWords.cpp	/^    void insert(string s, int idx) {$/;"	f	class:Trie
+isEnd	208Trie.cpp	/^    bool isEnd;$/;"	m	class:TrieNode	file:
+isEnd	211WordDictionary.cpp	/^    bool isEnd;$/;"	m	class:TrieNode	file:
+isEnd	212findWords.cpp	/^    bool isEnd;$/;"	m	class:TrieNode	file:
+main	213rob.cpp	/^int main(int argc, char** argv){$/;"	f
+main	214shortestPalindrome.cpp	/^int main(int argc, char** argv){$/;"	f
+main	215findKthLarge.cpp	/^int main(int argc, char ** argv){$/;"	f
+maximalSquare	221maximalSquare.cpp	/^    int maximalSquare(vector<vector<char>>& matrix) {$/;"	f	class:Solution
+minSubArrayLen	209minSubArrayLen.cpp	/^    int minSubArrayLen(int s, vector<int>& nums) {$/;"	f	class:Solution
+num	208Trie.cpp	/^    int num;$/;"	m	class:TrieNode	file:
+num	211WordDictionary.cpp	/^    int num;$/;"	m	class:TrieNode	file:
+num	212findWords.cpp	/^    int num;$/;"	m	class:TrieNode	file:
+pop	225Stack.cpp	/^    void pop() {$/;"	f	class:Stack
+push	225Stack.cpp	/^    void push(int x) {$/;"	f	class:Stack
+q	225Stack.cpp	/^    queue<int> q;$/;"	m	class:Stack	file:
+rob	213rob.cpp	/^    int rob(vector<int>& nums) {$/;"	f	class:Solution
+rob1	213rob.cpp	/^    int rob1(vector<int>& num){$/;"	f	class:Solution
+root	208Trie.cpp	/^    TrieNode* root;$/;"	m	class:Trie	file:
+root	211WordDictionary.cpp	/^	TrieNode* root;$/;"	m	class:WordDictionary	file:
+root	212findWords.cpp	/^    TrieNode* root;$/;"	m	class:Trie	file:
+search	208Trie.cpp	/^    bool search(string key) {$/;"	f	class:Trie
+search	211WordDictionary.cpp	/^    bool search(string word) {$/;"	f	class:WordDictionary
+search	212findWords.cpp	/^    bool search(string key) {$/;"	f	class:Trie
+shortestPalindrome	214shortestPalindrome.cpp	/^    string shortestPalindrome(string s) {$/;"	f	class:Solution
+sons	208Trie.cpp	/^    TrieNode * sons[26];$/;"	m	class:TrieNode	file:
+sons	211WordDictionary.cpp	/^    unordered_map<char, TrieNode*> sons;$/;"	m	class:TrieNode	file:
+sons	212findWords.cpp	/^    unordered_map<char, TrieNode*> sons;$/;"	m	class:TrieNode	file:
+startsWith	208Trie.cpp	/^    bool startsWith(string prefix) {$/;"	f	class:Trie
+startsWith	212findWords.cpp	/^    bool startsWith(string prefix) {$/;"	f	class:Trie
+stck	227calculate.cpp	/^	stack<int> stck;$/;"	m	class:Solution	file:
+top	225Stack.cpp	/^    int top() {$/;"	f	class:Stack
+val	208Trie.cpp	/^    char val;$/;"	m	class:TrieNode	file:
+val	211WordDictionary.cpp	/^    char val;$/;"	m	class:TrieNode	file:
+val	212findWords.cpp	/^    char val;$/;"	m	class:TrieNode	file:
+width	212findWords.cpp	/^	int width;$/;"	m	class:Solution	file:
