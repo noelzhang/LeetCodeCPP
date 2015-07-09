@@ -78,7 +78,30 @@ top	225Stack.cpp	/^    int top() {$/;"	f	class:Stack
 Solution	227calculate.cpp	/^class Solution {$/;"	c	file:
 calculate	227calculate.cpp	/^    int calculate(string s) {$/;"	f	class:Solution
 stck	227calculate.cpp	/^	stack<int> stck;$/;"	m	class:Solution	file:
+Solution	228summaryRanges.cpp	/^class Solution {$/;"	c	file:
+main	228summaryRanges.cpp	/^int main(int argc, char** argv){$/;"	f
+summaryRanges	228summaryRanges.cpp	/^    vector<string> summaryRanges(vector<int>& nums) {$/;"	f	class:Solution
+Solution	229majorityElement.cpp	/^class Solution {$/;"	c	file:
+majorityElement	229majorityElement.cpp	/^    vector<int> majorityElement(vector<int>& nums) {$/;"	f	class:Solution
+Solution	230kthSmallest.cpp	/^class Solution {$/;"	c	file:
+kthSmallest	230kthSmallest.cpp	/^    int kthSmallest(TreeNode* root, int k) {$/;"	f	class:Solution
 !_TAG_PROGRAM_VERSION	5.8	//
+Interval	56merge.cpp	/^    Interval() : start(0), end(0) {}$/;"	f	struct:Interval
+Interval	56merge.cpp	/^    Interval(int s, int e) : start(s), end(e) {}$/;"	f	struct:Interval
+Interval	56merge.cpp	/^struct Interval {$/;"	s	file:
+Solution	56merge.cpp	/^class Solution {$/;"	c	file:
+end	56merge.cpp	/^    int end;$/;"	m	struct:Interval	file:
+main	56merge.cpp	/^int main(int argc, char** argv){$/;"	f
+merge	56merge.cpp	/^    vector<Interval> merge(vector<Interval>& intervals) {$/;"	f	class:Solution
+start	56merge.cpp	/^    int start;$/;"	m	struct:Interval	file:
+Solution	57insert.cpp	/^class Solution {$/;"	c	file:
+insert	57insert.cpp	/^    vector<Interval> insert(vector<Interval>& intervals, Interval newInterval) {$/;"	f	class:Solution
+Solution	68fullJustify.cpp	/^class Solution {$/;"	c	file:
+fullJustify	68fullJustify.cpp	/^    vector<string> fullJustify(vector<string>& words, int maxWidth) {$/;"	f	class:Solution
+main	68fullJustify.cpp	/^int main(int argc, char ** argv){$/;"	f
+Solution	76minWindow.cpp	/^class Solution {$/;"	c	file:
+main	76minWindow.cpp	/^int main(int argc, char ** argv){$/;"	f
+minWindow	76minWindow.cpp	/^    string minWindow(string s, string t) {$/;"	f	class:Solution
 !_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
