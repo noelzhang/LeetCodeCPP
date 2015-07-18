@@ -18,6 +18,7 @@ public:
     }
 
     // Get the top element.
+
     int top() {
         return q.front();
     }
